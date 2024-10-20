@@ -5,8 +5,6 @@ int main()
     int bal = 5000,op,add,out;
     int x = 1;
     cout << "1. Check Balance\n2. Deposit\n3. Withdraw\n4. Exit\n";
-    // cout << "Enter 1 if you want to perform an operation or 0 if you do not.";
-    // cin >> x;
     for( ; x != 0; )
     {
         cout << "Enter operation you want to perform: ";
